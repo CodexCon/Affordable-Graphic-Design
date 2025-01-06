@@ -47,7 +47,7 @@ CodexCon stands out because we believe every business deserves beautiful, functi
 
 ### **Stay Connected!**  
 🌍 Website: [CodexCon](https://codexcon.net)  
-🎨 Web Development and Design: [gfx.codexcon.net](https://web.codexcon.net)  
+🎨 Web Development and Design: [web.codexcon.net](https://web.codexcon.net)  
 🎨 Graphics Design: [gfx.codexcon.net](https://gfx.codexcon.net)  
 📝 Blog: [blog.codexcon.net](https://blog.codexcon.net)  
 📋 Forms: [forms.codexcon.net](https://forms.codexcon.net)  
